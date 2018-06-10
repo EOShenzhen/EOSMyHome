@@ -1,0 +1,15 @@
+page-tabs {
+  .tabbar{
+    opacity: 1
+  }
+
+  ion-content {
+      background-image: url('../../assets/imgs/HomePage.jpg');
+      -webkit-background-size: cover;
+      -moz-background-size: cover;
+      -o-background-size: cover;
+      background-size: cover;
+      height: 100%;
+      overflow: hidden;
+  }
+}

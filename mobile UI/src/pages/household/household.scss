@@ -1,0 +1,45 @@
+page-household {
+
+ion-card-content {
+  color: #D32F2F;
+  text-align: left;
+  font-size: 12px;
+  font-style: bold;
+  font-family: "Verdana";
+}
+
+ion-card {
+  border-radius: 20px !important;
+}
+
+button {
+  border-radius: 30px !important;
+}
+
+.logo-row {
+  padding-top: 5px;
+  padding-bottom: 5px;
+  font-family: "Verdana";
+  font-size: 20px;
+  text-align: center;
+  color: #ffffff;
+  font-weight: bold;
+}
+
+p {
+  font-size: 12px;
+  font-family: "Verdana";
+  padding: 20px 10px;
+}
+
+ion-list {
+    background-image: url('../../assets/imgs/HomePage.jpg');
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    height: 100%;
+    padding-top: 90px;
+}
+
+}
